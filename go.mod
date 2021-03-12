@@ -1,3 +1,3 @@
-module v3-gen
+module genv3
 
 go 1.16
